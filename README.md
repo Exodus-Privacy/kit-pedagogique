@@ -8,7 +8,7 @@ Voici chacun des kits pédagogiques avec ses objectifs ainsi qu'un lien vers son
 
 ### Kit débutant·e
 
-Le [Kit débutant·e](Kit\ débutant/) vous permet d'animer un atelier d'1h30 pour une dizaine de personnes débutantes.
+Le [Kit débutant·e](Kit-débutant/) vous permet d'animer un atelier d'1h30 pour une dizaine de personnes débutantes.
 
 Nous avons annoncé la sortie de ce kit dans [un billet de blog](https://exodus-privacy.eu.org/fr/post/kitdebutant/).
 
