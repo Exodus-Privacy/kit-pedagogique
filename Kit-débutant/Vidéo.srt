@@ -1,0 +1,104 @@
+1
+00:00:01,108 --> 00:00:03,462
+Les pisteurs en deux minutes
+
+2
+00:00:03,619 --> 00:00:05,622
+par Exodus Privacy
+
+3
+00:00:07,447 --> 00:00:11,656
+Tous les jours, Camille utilise des applications sur son téléphone
+
+4
+00:00:11,756 --> 00:00:13,757
+qui lui rendent bien service.
+
+5
+00:00:13,986 --> 00:00:16,578
+Elles lui donnent par exemple la météo,
+
+6
+00:00:16,678 --> 00:00:18,857
+le solde de son compte en banque,
+
+7
+00:00:19,118 --> 00:00:21,530
+ou bien lui premettent de suivre sa glycémie,
+
+8
+00:00:21,630 --> 00:00:23,959
+puisque Camille est diabétique.
+
+9
+00:00:24,917 --> 00:00:27,013
+Mais ce que Camille ne sait pas
+
+10
+00:00:27,113 --> 00:00:31,218
+c'est que dans chacune de ces applications, il y a des pisteurs.
+
+11
+00:00:31,439 --> 00:00:36,939
+Ces pisteurs ont été rajoutés au moment de la création de l'application dans un seul but :
+
+12
+00:00:37,223 --> 00:00:39,612
+pouvoir collecter des données.
+
+13
+00:00:40,030 --> 00:00:42,918
+Par exemple : l'endroit où vie Camille,
+
+14
+00:00:43,075 --> 00:00:44,619
+le lieu où elle travaille,
+
+15
+00:00:44,719 --> 00:00:48,543
+ou bien la pharmacie où elle renouvel son traitement médical.
+
+16
+00:00:48,851 --> 00:00:54,011
+Ces pisteurs permettent à la personne qui a créée l'application plusieurs choses :
+
+17
+00:00:54,368 --> 00:00:59,952
+Tout d'abord, de savoir qui utilise l'application, d'en connaitre l'audience.
+
+18
+00:01:00,562 --> 00:01:06,268
+Mais aussi, si l'application propose de la publicité, de cibler celle-ci au maximum.
+
+19
+00:01:06,541 --> 00:01:12,819
+En effet, plus la publicité est ciblée, plus elle est efficace, donc plus elle rapporte d'argent.
+
+20
+00:01:13,666 --> 00:01:19,976
+Et enfin, la personne à l'origine de l'application peut revendre les données collectées par les pisteurs.
+
+21
+00:01:20,409 --> 00:01:23,152
+Mais ça, Camille, ça ne lui plait pas trop,
+
+22
+00:01:23,252 --> 00:01:27,177
+tous ces pisteurs qui collectent des choses sur elle, à son insu.
+
+23
+00:01:27,546 --> 00:01:31,180
+Alors Camille, maintenant, quand elle installe une application,
+
+24
+00:01:31,280 --> 00:01:34,555
+elle va d'abord sur Exodus Privacy.
+
+25
+00:01:35,121 --> 00:01:40,294
+Cette plateforme analyse les applications gratuites du Google Store
+
+26
+00:01:40,394 --> 00:01:43,893
+et détecte présence ou absence des pisteurs.
+
