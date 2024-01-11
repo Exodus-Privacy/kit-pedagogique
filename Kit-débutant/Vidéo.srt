@@ -24,7 +24,7 @@ le solde de son compte en banque,
 
 7
 00:00:19,118 --> 00:00:21,530
-ou bien lui premettent de suivre sa glycémie,
+ou bien lui permettent de suivre sa glycémie,
 
 8
 00:00:21,630 --> 00:00:23,959
@@ -48,7 +48,7 @@ pouvoir collecter des données.
 
 13
 00:00:40,030 --> 00:00:42,918
-Par exemple : l'endroit où vie Camille,
+Par exemple : l'endroit où vit Camille,
 
 14
 00:00:43,075 --> 00:00:44,619
@@ -56,15 +56,15 @@ le lieu où elle travaille,
 
 15
 00:00:44,719 --> 00:00:48,543
-ou bien la pharmacie où elle renouvel son traitement médical.
+ou bien la pharmacie où elle renouvelle son traitement médical.
 
 16
 00:00:48,851 --> 00:00:54,011
-Ces pisteurs permettent à la personne qui a créée l'application plusieurs choses :
+Ces pisteurs permettent à la personne qui a créé l'application plusieurs choses :
 
 17
 00:00:54,368 --> 00:00:59,952
-Tout d'abord, de savoir qui utilise l'application, d'en connaitre l'audience.
+Tout d'abord, de savoir qui utilise l'application, d'en connaître l'audience.
 
 18
 00:01:00,562 --> 00:01:06,268
